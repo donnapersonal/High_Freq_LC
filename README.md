@@ -15,11 +15,13 @@ Solutions by Python, JS
 |	0136 | 只出现一次的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、位运算 | Easy |
 |	0217 | 存在重复元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) | 数组、哈希表、排序 | Easy |
 |	0238 | 存在重复元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0238.%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md) | 数组、前缀积 | Medium |
+|	0252 | 会议室 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0252.%E4%BC%9A%E8%AE%AE%E5%AE%A4.md) | 数组、排序 | Easy |
 |	0268 | 丢失的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0268.%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、位运算、哈希表 | Easy |
 |	0278 | 第一个错误的版本 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md) | 数组、二分查找 | Easy |
 |	0303 | 区域和检索 - 数组不可变 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0303.%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.md) | 数组、前缀和 | Easy |
 |	0448 | 找到所有数组中消失的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0448.%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、哈希表 | Easy |
 |	0704 | 二分查找 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 数组、二分查找 | Easy |
+|	0744 | 寻找比目标字母大的最小字母 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0744.%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md) | 数组、二分查找 | Easy |
 |	0973 | 最接近原点的 K 个点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0973.%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8E%9F%E7%82%B9%E7%9A%84%20K%20%E4%B8%AA%E7%82%B9.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 
 ### 二维数组/矩阵
@@ -43,7 +45,9 @@ Solutions by Python, JS
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0021 | 合并两个有序链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0021.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
+|	0083 | 删除排序链表中的重复元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0083.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) | 链表、双指针 | Easy |
 |	0141 | 环形链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md) | 链表、哈希表、双指针 | Easy |
+|	0203 | 移除链表元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md) | 链表、迭代 | Easy |
 |	0206 | 反转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0234 | 回文链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0876 | 链表的中间结点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.md) | 链表、双指针 | Easy |
@@ -71,6 +75,7 @@ Solutions by Python, JS
 |	0110 | 平衡二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、平衡二叉树、递归、迭代 | Easy |
 |	0226 | 翻转二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、DFS、BFS | Easy |
 |	0235 | 二叉搜索树的最近公共祖先 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 二叉树、DFS、BFS | Medium |
+|	0637 | 二叉树的层平均值 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.md) | 二叉树、层序遍历 | Easy |
 
 ### 图
 
