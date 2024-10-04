@@ -7,6 +7,7 @@ Solutions by Python, JS
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0001 | 两数之和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、哈希表 | Easy |
+|	0015 | 三数之和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、哈希表、双指针 | Medium |
 |	0053 | 最大子数组和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md) | 数组、动态规划、分治 | Medium |
 |	0057 | 插入区间 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0057.%E6%8F%92%E5%85%A5%E5%8C%BA%E9%97%B4.md) | 数组、线性扫描 | Medium |
 |	0078 | 子集 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0078.%E5%AD%90%E9%9B%86.md) | 数组、回溯 | Medium |
@@ -43,7 +44,9 @@ Solutions by Python, JS
 |	--- |	--- | --- | --- | --- |
 |	0021 | 合并两个有序链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0021.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0141 | 环形链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md) | 链表、哈希表、双指针 | Easy |
-|	0876 | 链表的中间结点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.md) | 链表、s双指针 | Easy |
+|	0206 | 反转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
+|	0234 | 回文链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
+|	0876 | 链表的中间结点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.md) | 链表、双指针 | Easy |
 
 ### 栈/队列
 
@@ -64,7 +67,8 @@ Solutions by Python, JS
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0110 | 平衡二叉树| [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、平衡二叉树、递归、迭代 | Easy |
+|	0102 | 二叉树的层序遍历 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md) | 二叉树、层次遍历、递归 | Medium |
+|	0110 | 平衡二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、平衡二叉树、递归、迭代 | Easy |
 |	0226 | 翻转二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、DFS、BFS | Easy |
 |	0235 | 二叉搜索树的最近公共祖先 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 二叉树、DFS、BFS | Medium |
 
