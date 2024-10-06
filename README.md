@@ -29,6 +29,7 @@ Solutions by Python, JS
 |	0704 | 二分查找 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 数组、二分查找 | Easy |
 |	0744 | 寻找比目标字母大的最小字母 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0744.%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md) | 数组、二分查找 | Easy |
 |	0973 | 最接近原点的 K 个点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0973.%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8E%9F%E7%82%B9%E7%9A%84%20K%20%E4%B8%AA%E7%82%B9.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
+|	0977 | 有序数组的平方 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md) | 数组、双指针 | Easy |
 
 ### 二维数组/矩阵
 
@@ -43,6 +44,7 @@ Solutions by Python, JS
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0003 | 无重复字符的最长子串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0003.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0076 | 最小覆盖子串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0076.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md) | 字符串、哈希表、滑动窗口 | Hard |
 |	0125 | 验证回文串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) | 字符串、双指针 | Easy |
 |	0242 | 有效的字母异位词 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 字符串、哈希表 | Easy |
 |	0383 | 赎金信 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0383.%E8%B5%8E%E9%87%91%E4%BF%A1.md) | 字符串、哈希表 | Easy |
@@ -93,6 +95,9 @@ Solutions by Python, JS
 |	0226 | 翻转二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、DFS、BFS | Easy |
 |	0235 | 二叉搜索树的最近公共祖先 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 二叉树、DFS、BFS | Medium |
 |	0236 | 二叉树的最近公共祖先 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 二叉树、递归、迭代 | Medium |
+|	0297 | 二叉树的序列化与反序列化 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0297.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md) | 二叉树、递归、迭代(层序遍历) | Hard |
+|	0543 | 二叉树的直径 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0543.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md) | 二叉树、DFS | Easy |
+|	0617 | 合并二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0617.%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、递归、迭代 | Easy |
 |	0637 | 二叉树的层平均值 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.md) | 二叉树、层序遍历 | Easy |
 
 ### 图
