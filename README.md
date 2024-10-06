@@ -9,9 +9,11 @@ Solutions by Python, JS
 |	0001 | 两数之和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、哈希表 | Easy |
 |	0011 | 盛最多水的容器 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0011.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md) | 数组、双指针 | Medium |
 |	0015 | 三数之和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、哈希表、双指针 | Medium |
+|	0033 | 搜索旋转排序数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0033.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 数组、二分查找 | Medium |
 |	0042 | 接雨水 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0042.%E6%8E%A5%E9%9B%A8%E6%B0%B4.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0049 | 字母异位词分组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0049.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md) | 数组、哈希表 | Medium |
 |	0053 | 最大子数组和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md) | 数组、动态规划、分治 | Medium |
+|	0056 | 合并区间 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0056.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md) | 数组、排序 | Medium |
 |	0057 | 插入区间 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0057.%E6%8F%92%E5%85%A5%E5%8C%BA%E9%97%B4.md) | 数组、线性扫描 | Medium |
 |	0128 | 最长连续序列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0128.%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md) | 数组、哈希表 | Medium |
 |	0136 | 只出现一次的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、位运算 | Easy |
@@ -90,6 +92,7 @@ Solutions by Python, JS
 |	0112 | 路径总和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0112.%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.md) | 二叉树、递归、迭代 | Easy |
 |	0226 | 翻转二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、DFS、BFS | Easy |
 |	0235 | 二叉搜索树的最近公共祖先 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 二叉树、DFS、BFS | Medium |
+|	0236 | 二叉树的最近公共祖先 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 二叉树、递归、迭代 | Medium |
 |	0637 | 二叉树的层平均值 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.md) | 二叉树、层序遍历 | Easy |
 
 ### 图
@@ -104,6 +107,7 @@ Solutions by Python, JS
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0039 | 组合总和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md) | 组合、回溯 | Medium |
 |	0046 | 全排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0046.%E5%85%A8%E6%8E%92%E5%88%97.md) | 全排列、回溯 | Medium |
 |	0078 | 子集 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0078.%E5%AD%90%E9%9B%86.md) | 子集、回溯 | Medium |
 |	0090 | 子集 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0090.%E5%AD%90%E9%9B%86%20II.md) | 子集、回溯 | Medium |
@@ -112,4 +116,5 @@ Solutions by Python, JS
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0208 | 208.实现 Trie (前缀树) | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0208.%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).md) | 设计、字典树、哈希表、字符串 | Medium |
+|	0208 | 实现 Trie (前缀树) | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0208.%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).md) | 设计、字典树、哈希表、字符串 | Medium |
+|	0981 | 基于时间的键值存储 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0981.%E5%9F%BA%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E9%94%AE%E5%80%BC%E5%AD%98%E5%82%A8.md) | 设计、哈希表、二分查找 | Medium |
