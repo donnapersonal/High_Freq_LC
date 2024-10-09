@@ -38,6 +38,7 @@ Solutions by Python, JS
 |	0744 | 寻找比目标字母大的最小字母 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0744.%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md) | 数组、二分查找 | Easy |
 |	0973 | 最接近原点的 K 个点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0973.%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8E%9F%E7%82%B9%E7%9A%84%20K%20%E4%B8%AA%E7%82%B9.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	0977 | 有序数组的平方 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md) | 数组、双指针 | Easy |
+|	1235 | 规划兼职工作 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/1235.%E8%A7%84%E5%88%92%E5%85%BC%E8%81%8C%E5%B7%A5%E4%BD%9C.md) | 数组、动态规划 | Hard |
 
 ### 二维数组/矩阵
 
@@ -47,6 +48,9 @@ Solutions by Python, JS
 |	0200 | 岛屿数量 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md) | 矩阵、BFS、DFS | Medium |
 |	0542 | 01 矩阵 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0542.01%20%E7%9F%A9%E9%98%B5.md) | 矩阵、BFS | Medium |
 |	0994 | 腐烂的橘子 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0994.%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.md) | 矩阵、BFS | Medium |
+|	2022 | 将一维数组转变成二维数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/2022.%E5%B0%86%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E8%BD%AC%E5%8F%98%E6%88%90%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84.md) | 矩阵、数组 | Easy |
+
+
 
 ### 字符串
 
@@ -57,13 +61,16 @@ Solutions by Python, JS
 |	0067 | 二进制求和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0067.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.md) | 字符串、位运算、数学、模拟 | Easy |
 |	0076 | 最小覆盖子串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0076.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md) | 字符串、哈希表、滑动窗口 | Hard |
 |	0125 | 验证回文串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) | 字符串、双指针 | Easy |
+|	0127 | 单词接龙 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0127.%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.md) | 字符串、广度优先搜索、哈希表 | Hard |
 |	0139 | 单词拆分 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md) | 字符串、动态规划 | Medium |
+|	0224 | 基本计算器 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0224.%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8.md) | 字符串、栈 | Hard |
 |	0242 | 有效的字母异位词 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 字符串、哈希表 | Easy |
 |	0383 | 赎金信 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0383.%E8%B5%8E%E9%87%91%E4%BF%A1.md) | 字符串、哈希表 | Easy |
 |	0409 | 最长回文串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0409.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.md) | 字符串、贪心、哈希表 | Easy |
 |	0438 | 找到字符串中所有字母异位词 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0784 | 字母大小写全排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0784.%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.md) | 字符串、回溯 | Medium |
 |	0844 | 比较含退格的字符串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0844.%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 字符串、栈、双指针、模拟 | Easy |
+|	1065 | 字符串的索引对 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/1065.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E7%B4%A2%E5%BC%95%E5%AF%B9.md) | 字符串、字典树、排序 | Easy |
 
 ### 链表
 
