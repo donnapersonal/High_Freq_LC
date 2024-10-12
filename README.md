@@ -29,8 +29,10 @@ Solutions by Python, JS
 |	0268 | 丢失的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0268.%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、位运算、哈希表 | Easy |
 |	0278 | 第一个错误的版本 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md) | 数组、二分查找 | Easy |
 |	0283 | 移动零 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 数组、双指针 | Easy |
+|	0287 | 寻找重复数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.md) | 数组、位运算、双指针、二分查找 | Medium |
 |	0303 | 区域和检索 - 数组不可变 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0303.%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.md) | 数组、前缀和 | Easy |
 |	0416 | 分割等和子集 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md) | 数组、动态规划 | Medium |
+|	0442 | 数组中重复的数据 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0442.%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E6%8D%AE.md) | 数组、哈希表 | Medium |
 |	0448 | 找到所有数组中消失的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0448.%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、哈希表 | Easy |
 |	0560 | 和为 K 的子数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 数组、哈希表、前缀和 | Medium |
 |	0621 | 任务调度器 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0621.%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.md) | 数组、贪心、哈希表、计数、排序、堆（优先级队列） | Medium |
@@ -46,8 +48,10 @@ Solutions by Python, JS
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0048 | 旋转图像 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0048.%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md) | 矩阵、数组、模拟 | Medium |
 |	0054 | 螺旋矩阵 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0054.%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) | 矩阵、数组、模拟 | Medium |
 |	0062 | 不同路径 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) | 矩阵、数学、动态规划、组合数学 | Medium |
+|	0073 | 矩阵置零 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0073.%E7%9F%A9%E9%98%B5%E7%BD%AE%E9%9B%B6.md) | 矩阵、哈希表 | Medium |
 |	0079 | 单词搜索 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0079.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md) | 矩阵、数组、回溯 | Medium |
 |	0200 | 岛屿数量 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md) | 矩阵、BFS、DFS | Medium |
 |	0542 | 01 矩阵 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0542.01%20%E7%9F%A9%E9%98%B5.md) | 矩阵、BFS | Medium |
@@ -152,6 +156,7 @@ Solutions by Python, JS
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0008 | 实现 Trie (前缀树) | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0008.%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md) | 数学、模拟 | Medium |
+|	0146 | LRU 缓存 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0146.LRU%20%E7%BC%93%E5%AD%98.md) | 设计、数据结构 | Medium |
 |	0208 | 实现 Trie (前缀树) | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0208.%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).md) | 设计、字典树、哈希表、字符串 | Medium |
 |	0295 | 数据流的中位数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0295.%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 设计、数组、双指针、优先级队列 | Hard |
 |	0981 | 基于时间的键值存储 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0981.%E5%9F%BA%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E9%94%AE%E5%80%BC%E5%AD%98%E5%82%A8.md) | 设计、哈希表、二分查找 | Medium |
