@@ -109,6 +109,8 @@ Solutions by Python, JS
 |	--- |	--- | --- | --- | --- |
 |	0070 | 爬楼梯 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 动态规划 | Easy |
 |	0121 | 买卖股票的最佳时机 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 动态规划、递归 | Medium |
+|	0198 | 打家劫舍 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md) | 动态规划 | Medium |
+|	0213 | 打家劫舍 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.md) | 动态规划 | Medium |
 |	0322 | 零钱兑换 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md) | 动态规划、递归 | Medium |
 |	0338 | 比特位计数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.md) | 动态规划 | Easy |
 
@@ -150,7 +152,10 @@ Solutions by Python, JS
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0039 | 组合总和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md) | 组合、回溯 | Medium |
+|	0040 | 组合总和 II | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0040.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.md) | 组合、回溯 | Medium |
 |	0046 | 全排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0046.%E5%85%A8%E6%8E%92%E5%88%97.md) | 全排列、回溯 | Medium |
+|	0047 | 全排列 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0047.%E5%85%A8%E6%8E%92%E5%88%97%20II.md) | 全排列、回溯 | Medium |
+|	0077 | 组合 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0077.%E7%BB%84%E5%90%88.md) | 组合、回溯 | Medium |
 |	0078 | 子集 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0078.%E5%AD%90%E9%9B%86.md) | 子集、回溯 | Medium |
 |	0090 | 子集 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0090.%E5%AD%90%E9%9B%86%20II.md) | 子集、回溯 | Medium |
 
