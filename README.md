@@ -28,6 +28,7 @@ Solutions by Python, JS
 |	0169 | 多数元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0169.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0189 | 轮转数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0189.%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%BB%84.md) | 数组、双指针、数组翻转 | Medium |
 |	0209 | 长度最小的子数组 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 数组、滑动窗口 | Medium |
+|	0215 | 数组中的第K个最大元素 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0215.%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	0217 | 存在重复元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) | 数组、哈希表、排序 | Easy |
 |	0238 | 除自身以外数组的乘积 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0238.%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md) | 数组、前缀积 | Medium |
 |	0239 | 滑动窗口最大值 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 数组、队列、单调队列、堆（优先级队列）| Hard |
@@ -104,9 +105,11 @@ Solutions by Python, JS
 |	0002 | 两数相加 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0002.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md) | 链表、递归、模拟 | Medium |
 |	0021 | 合并两个有序链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0021.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0023 | 合并 K 个升序链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0023.%E5%90%88%E5%B9%B6%20K%20%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 链表、双指针、分治、堆（优先队列）、归并排序 | Hard |
+|	0061 | 旋转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0061.%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Medium |
 |	0083 | 删除排序链表中的重复元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0083.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) | 链表、双指针 | Easy |
 |	0141 | 环形链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md) | 链表、哈希表、双指针 | Easy |
 |	0142 | 环形链表 I | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 链表、双指针 | Medium |
+|	0143 | 重排链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md) | 链表、栈、双指针 | Medium |
 |	0203 | 移除链表元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md) | 链表、迭代 | Easy |
 |	0206 | 反转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0234 | 回文链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
@@ -174,6 +177,7 @@ Solutions by Python, JS
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0022 | 括号生成 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0022.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md) | 组合、回溯 | Medium |
 |	0039 | 组合总和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md) | 组合、回溯 | Medium |
 |	0040 | 组合总和 II | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0040.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.md) | 组合、回溯 | Medium |
 |	0046 | 全排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0046.%E5%85%A8%E6%8E%92%E5%88%97.md) | 全排列、回溯 | Medium |
