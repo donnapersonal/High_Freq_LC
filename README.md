@@ -9,6 +9,7 @@ Solutions by Python, JS
 |	0001 | 两数之和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、哈希表 | Easy |
 |	0011 | 盛最多水的容器 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0011.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md) | 数组、双指针 | Medium |
 |	0015 | 三数之和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、哈希表、双指针 | Medium |
+|	0016 | 最接近的三数之和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0016.%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、双指针、排序 | Medium |
 |	0033 | 搜索旋转排序数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0033.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 数组、二分查找 | Medium |
 |	0042 | 接雨水 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0042.%E6%8E%A5%E9%9B%A8%E6%B0%B4.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0049 | 字母异位词分组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0049.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md) | 数组、哈希表 | Medium |
@@ -69,6 +70,7 @@ Solutions by Python, JS
 |	0074 | 搜索二维矩阵 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0074.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.md) | 矩阵、二分查找 | Medium |
 |	0079 | 单词搜索 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0079.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md) | 矩阵、数组、回溯 | Medium |
 |	0200 | 岛屿数量 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md) | 矩阵、BFS、DFS | Medium |
+|	0240 | 搜索二维矩阵 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0240.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5%20II.md) | 矩阵、二分查找、双指针 | Medium |
 |	0417 | 太平洋大西洋水流问题 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0417.%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B0%B4%E6%B5%81%E9%97%AE%E9%A2%98.md) | 矩阵、BFS、DFS | Medium |
 |	0542 | 01 矩阵 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0542.01%20%E7%9F%A9%E9%98%B5.md) | 矩阵、BFS | Medium |
 |	0994 | 腐烂的橘子 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0994.%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.md) | 矩阵、BFS | Medium |
@@ -94,6 +96,7 @@ Solutions by Python, JS
 |	0409 | 最长回文串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0409.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.md) | 字符串、贪心、哈希表 | Easy |
 |	0424 | 替换后的最长重复字符 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0424.%E6%9B%BF%E6%8D%A2%E5%90%8E%E7%9A%84%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0438 | 找到字符串中所有字母异位词 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0567 | 字符串的排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0567.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 字符串、哈希表、双指针、滑动窗口 | Medium |
 |	0784 | 字母大小写全排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0784.%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.md) | 字符串、回溯 | Medium |
 |	0844 | 比较含退格的字符串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0844.%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 字符串、栈、双指针、模拟 | Easy |
 |	1065 | 字符串的索引对 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/1065.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E7%B4%A2%E5%BC%95%E5%AF%B9.md) | 字符串、字典树、排序 | Easy |
@@ -134,6 +137,7 @@ Solutions by Python, JS
 |	0121 | 买卖股票的最佳时机 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 动态规划、递归 | Medium |
 |	0198 | 打家劫舍 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md) | 动态规划 | Medium |
 |	0213 | 打家劫舍 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.md) | 动态规划 | Medium |
+|	0300 | 最长递增子序列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0300.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md) | 动态规划、二分查找 | Medium |
 |	0322 | 零钱兑换 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md) | 动态规划、递归 | Medium |
 |	0338 | 比特位计数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.md) | 动态规划 | Easy |
 
@@ -189,6 +193,7 @@ Solutions by Python, JS
 |	0077 | 组合 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0077.%E7%BB%84%E5%90%88.md) | 组合、回溯 | Medium |
 |	0078 | 子集 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0078.%E5%AD%90%E9%9B%86.md) | 子集、回溯 | Medium |
 |	0090 | 子集 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0090.%E5%AD%90%E9%9B%86%20II.md) | 子集、回溯 | Medium |
+|	0131 | 分割回文串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0131.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md) | 分割、回溯 | Medium |
 |	0216 | 组合总和 III | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0216.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III.md) | 组合、回溯 | Medium |
 |	0254 | 因子的组合 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0254.%E5%9B%A0%E5%AD%90%E7%9A%84%E7%BB%84%E5%90%88.md) | 组合、回溯 | Medium |
 
