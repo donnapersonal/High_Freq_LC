@@ -46,6 +46,7 @@ Solutions by Python, JS
 |	0442 | 数组中重复的数据 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0442.%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E6%8D%AE.md) | 数组、哈希表 | Medium |
 |	0452 | 用最少数量的箭引爆气球 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0452.%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.md) | 数组、贪心、排序 | Medium |
 |	0448 | 找到所有数组中消失的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0448.%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、哈希表 | Easy |
+|	0494 | 目标和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0494.%E7%9B%AE%E6%A0%87%E5%92%8C.md) | 数组、回溯、动态 | Medium |
 |	0560 | 和为 K 的子数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 数组、哈希表、前缀和 | Medium |
 |	0621 | 任务调度器 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0621.%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.md) | 数组、贪心、哈希表、计数、排序、堆（优先级队列） | Medium |
 |	0643 | 子数组最大平均数 I | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0643.%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.md) | 数组、滑动窗口 | Easy |
@@ -113,6 +114,7 @@ Solutions by Python, JS
 |	0203 | 移除链表元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md) | 链表、迭代 | Easy |
 |	0206 | 反转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0234 | 回文链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
+|	0328 | 奇偶链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0328.%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8.mdd) | 链表、双指针 | Medium |
 |	0876 | 链表的中间结点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.md) | 链表、双指针 | Easy |
 
 ### 栈/队列
@@ -163,6 +165,7 @@ Solutions by Python, JS
 |	0617 | 合并二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0617.%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、递归、迭代 | Easy |
 |	0637 | 二叉树的层平均值 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.md) | 二叉树、层序遍历 | Easy |
 |	0654 | 最大二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0654.%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、递归 | Medium |
+|	0863 | 二叉树中所有距离为 K 的结点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0863.%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E6%89%80%E6%9C%89%E8%B7%9D%E7%A6%BB%E4%B8%BA%20K%20%E7%9A%84%E7%BB%93%E7%82%B9.md) | 二叉树、BFS、DFS | Medium |
 
 ### 图
 
@@ -171,6 +174,7 @@ Solutions by Python, JS
 |	0133 | 克隆图 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0133.%E5%85%8B%E9%9A%86%E5%9B%BE.md) | 图、BFS、DFS | Medium |
 |	0207 | 课程表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0207.%E8%AF%BE%E7%A8%8B%E8%A1%A8.md) | 图、BFS、DFS、拓扑排序 | Medium |
 |	0210 | 课程表 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0210.%E8%AF%BE%E7%A8%8B%E8%A1%A8%20II.md) | 图、BFS、DFS、拓扑排序 | Medium |
+|	0323 | 无向图中连通分量的数目 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0323.%E6%97%A0%E5%90%91%E5%9B%BE%E4%B8%AD%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 图、BFS、DFS、并查集 | Medium |
 |	0733 | 图像渲染 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0733.%E5%9B%BE%E5%83%8F%E6%B8%B2%E6%9F%93.md) | 图、递归、迭代 | Easy |
 
 ### 回溯
@@ -186,7 +190,7 @@ Solutions by Python, JS
 |	0078 | 子集 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0078.%E5%AD%90%E9%9B%86.md) | 子集、回溯 | Medium |
 |	0090 | 子集 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0090.%E5%AD%90%E9%9B%86%20II.md) | 子集、回溯 | Medium |
 |	0216 | 组合总和 III | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0216.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III.md) | 组合、回溯 | Medium |
-
+|	0254 | 因子的组合 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0254.%E5%9B%A0%E5%AD%90%E7%9A%84%E7%BB%84%E5%90%88.md) | 组合、回溯 | Medium |
 
 ### 数学/设计
 
