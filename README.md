@@ -52,7 +52,10 @@ Solutions by Python, JS
 |	0560 | 和为 K 的子数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 数组、哈希表、前缀和 | Medium |
 |	0621 | 任务调度器 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0621.%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.md) | 数组、贪心、哈希表、计数、排序、堆（优先级队列） | Medium |
 |	0643 | 子数组最大平均数 I | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0643.%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.md) | 数组、滑动窗口 | Easy |
+|	0658 | 找到 K 个最接近的元素 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0658.%E6%89%BE%E5%88%B0%20K%20%E4%B8%AA%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E5%85%83%E7%B4%A0.md) | 数组、双指针、二分查找 | Medium |
 |	0704 | 二分查找 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) | 数组、二分查找 | Easy |
+|	0713 | 乘积小于 K 的子数组 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0713.%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 数组、滑动窗口 | Medium |
+|	0720 | 词典中最长的单词 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0720.%E8%AF%8D%E5%85%B8%E4%B8%AD%E6%9C%80%E9%95%BF%E7%9A%84%E5%8D%95%E8%AF%8D.md) | 数组、字典树、哈希表、排序 | Medium |
 |	0721 | 账户合并 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0721.%E8%B4%A6%E6%88%B7%E5%90%88%E5%B9%B6.md) | 数组、BFS、DFS、并查集（Union-find） | Medium |
 |	0744 | 寻找比目标字母大的最小字母 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0744.%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md) | 数组、二分查找 | Easy |
 |	0852 | 山脉数组的峰顶索引 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0852.%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95.md) | 数组、二分查找 | Medium |
@@ -101,6 +104,7 @@ Solutions by Python, JS
 |	0438 | 找到字符串中所有字母异位词 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0451 | 根据字符出现频率排序 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0451.%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F.md) | 字符串、优先级队列（二叉堆）| Medium |
 |	0567 | 字符串的排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0567.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 字符串、哈希表、双指针、滑动窗口 | Medium |
+|	0767 | 重构字符串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0767.%E9%87%8D%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 字符串、哈希、贪心 | Medium |
 |	0784 | 字母大小写全排列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0784.%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.md) | 字符串、回溯 | Medium |
 |	0844 | 比较含退格的字符串 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0844.%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 字符串、栈、双指针、模拟 | Easy |
 |	1065 | 字符串的索引对 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/1065.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E7%B4%A2%E5%BC%95%E5%AF%B9.md) | 字符串、字典树、排序 | Easy |
@@ -185,6 +189,7 @@ Solutions by Python, JS
 |	0207 | 课程表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0207.%E8%AF%BE%E7%A8%8B%E8%A1%A8.md) | 图、BFS、DFS、拓扑排序 | Medium |
 |	0210 | 课程表 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0210.%E8%AF%BE%E7%A8%8B%E8%A1%A8%20II.md) | 图、BFS、DFS、拓扑排序 | Medium |
 |	0323 | 无向图中连通分量的数目 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0323.%E6%97%A0%E5%90%91%E5%9B%BE%E4%B8%AD%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F%E7%9A%84%E6%95%B0%E7%9B%AE.md) | 图、BFS、DFS、并查集 | Medium |
+|	0444 | 序列重建 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0444.%E5%BA%8F%E5%88%97%E9%87%8D%E5%BB%BA.md) | 图、拓扑排序 | Medium |
 |	0733 | 图像渲染 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0733.%E5%9B%BE%E5%83%8F%E6%B8%B2%E6%9F%93.md) | 图、递归、迭代 | Easy |
 
 ### 回溯
