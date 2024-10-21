@@ -107,6 +107,7 @@ Solutions by Python, JS
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0002 | 两数相加 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0002.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md) | 链表、递归、模拟 | Medium |
+|	0019 | 删除链表的倒数第 N 个结点| [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0019.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md) | 链表、递归、双指针 | Medium |
 |	0021 | 合并两个有序链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0021.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0023 | 合并 K 个升序链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0023.%E5%90%88%E5%B9%B6%20K%20%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 链表、双指针、分治、堆（优先队列）、归并排序 | Hard |
 |	0061 | 旋转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0061.%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Medium |
@@ -140,6 +141,7 @@ Solutions by Python, JS
 |	0300 | 最长递增子序列 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0300.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md) | 动态规划、二分查找 | Medium |
 |	0322 | 零钱兑换 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md) | 动态规划、递归 | Medium |
 |	0338 | 比特位计数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.md) | 动态规划 | Easy |
+|	0673 | 最长递增子序列的个数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0673.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97%E7%9A%84%E4%B8%AA%E6%95%B0.md) | 动态规划 | Medium |
 
 ### 二叉树
 
