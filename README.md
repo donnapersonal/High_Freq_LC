@@ -80,6 +80,7 @@ Solutions by Python, JS
 |	0079 | 单词搜索 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0079.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md) | 矩阵、数组、回溯 | Medium |
 |	0200 | 岛屿数量 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md) | 矩阵、BFS、DFS | Medium |
 |	0240 | 搜索二维矩阵 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0240.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5%20II.md) | 矩阵、二分查找、双指针 | Medium |
+|	0378 | 有序矩阵中第 K 小的元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0378.%E6%9C%89%E5%BA%8F%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%AC%AC%20K%20%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.md) | 矩阵、二分查找、矩阵、排序、堆（优先队列）| Medium |
 |	0417 | 太平洋大西洋水流问题 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0417.%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B0%B4%E6%B5%81%E9%97%AE%E9%A2%98.md) | 矩阵、BFS、DFS | Medium |
 |	0542 | 01 矩阵 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0542.01%20%E7%9F%A9%E9%98%B5.md) | 矩阵、BFS | Medium |
 |	0994 | 腐烂的橘子 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0994.%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.md) | 矩阵、BFS | Medium |
@@ -189,6 +190,7 @@ Solutions by Python, JS
 |	0617 | 合并二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0617.%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、递归、迭代 | Easy |
 |	0637 | 二叉树的层平均值 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.md) | 二叉树、层序遍历 | Easy |
 |	0654 | 最大二叉树 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0654.%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 二叉树、递归 | Medium |
+|	0662 | 二叉树最大宽度 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0662.%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E5%A4%A7%E5%AE%BD%E5%BA%A6.md) | 二叉树、DFS、BFS | Medium |
 |	0863 | 二叉树中所有距离为 K 的结点 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0863.%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E6%89%80%E6%9C%89%E8%B7%9D%E7%A6%BB%E4%B8%BA%20K%20%E7%9A%84%E7%BB%93%E7%82%B9.md) | 二叉树、BFS、DFS | Medium |
 
 ### 图
