@@ -38,6 +38,7 @@ Solutions by Python, JS
 |	0252 | 会议室 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0252.%E4%BC%9A%E8%AE%AE%E5%AE%A4.md) | 数组、排序 | Easy |
 |	0253 | 会议室 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0253.%E4%BC%9A%E8%AE%AE%E5%AE%A4%20II.md) | 数组、排序、双指针 | Medium |
 |	0268 | 丢失的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0268.%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、位运算、哈希表 | Easy |
+|	0269 | 火星词典 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0269.%E7%81%AB%E6%98%9F%E8%AF%8D%E5%85%B8.md) | 数组、拓扑排序 | Hard |
 |	0278 | 第一个错误的版本 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md) | 数组、二分查找 | Easy |
 |	0283 | 移动零 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.md) | 数组、双指针 | Easy |
 |	0287 | 寻找重复数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.md) | 数组、位运算、双指针、二分查找 | Medium |
@@ -48,11 +49,13 @@ Solutions by Python, JS
 |	0373 | 查找和最小的 K 对数字 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0373.%E6%9F%A5%E6%89%BE%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%20K%20%E5%AF%B9%E6%95%B0%E5%AD%97.md) | 数组、优先级队列 | Medium |
 |	0416 | 分割等和子集 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md) | 数组、动态规划 | Medium |
 |	0421 | 数组中两个数的最大异或值 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0421.%E6%95%B0%E7%BB%84%E4%B8%AD%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%80%BC.md) | 数组、位运算、字典树、哈希表 | Medium |
+|	0425 | 单词方块 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0425.%E5%8D%95%E8%AF%8D%E6%96%B9%E5%9D%97.md) | 数组、字典树、回溯 | Hard |
 |	0435 | 无重叠区间 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md) | 数组、贪心、动态规划、排序 | Medium |
 |	0442 | 数组中重复的数据 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0442.%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E6%8D%AE.md) | 数组、哈希表 | Medium |
 |	0452 | 用最少数量的箭引爆气球 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0452.%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.md) | 数组、贪心、排序 | Medium |
 |	0448 | 找到所有数组中消失的数字 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0448.%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 数组、哈希表 | Easy |
 |	0472 | 连接词 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0472.%E8%BF%9E%E6%8E%A5%E8%AF%8D.md) | 数组、递归、记忆化搜索（备忘录）、字典树 | Hard |
+|	0480 | 滑动窗口中位数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0480.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 数组、哈希表、滑动窗口、堆（优先队列）| Hard |
 |	0494 | 目标和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0494.%E7%9B%AE%E6%A0%87%E5%92%8C.md) | 数组、回溯、动态 | Medium |
 |	0560 | 和为 K 的子数组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 数组、哈希表、前缀和 | Medium |
 |	0621 | 任务调度器 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0621.%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.md) | 数组、贪心、哈希表、计数、排序、堆（优先级队列） | Medium |
@@ -141,10 +144,12 @@ Solutions by Python, JS
 |	0061 | 旋转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0061.%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Medium |
 |	0083 | 删除排序链表中的重复元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0083.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) | 链表、双指针 | Easy |
 |	0092 | 反转链表 II | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0092.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II.md) | 链表、双指针、递归 | Medium |
+|	0138 | 随机链表的复制 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0138.%E9%9A%8F%E6%9C%BA%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md) | 链表、哈希表、迭代、递归 | Medium |
 |	0141 | 环形链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md) | 链表、哈希表、双指针 | Easy |
 |	0142 | 环形链表 I | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 链表、双指针 | Medium |
 |	0143 | 重排链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md) | 链表、栈、双指针 | Medium |
 |	0148 | 排序链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 链表、双指针、分治、排序、归并排序 | Medium |
+|	0160 | 相交链表 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0203 | 移除链表元素 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md) | 链表、迭代 | Easy |
 |	0206 | 反转链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
 |	0234 | 回文链表 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md) | 链表、双指针 | Easy |
@@ -247,6 +252,8 @@ Solutions by Python, JS
 |	0208 | 实现 Trie (前缀树) | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0208.%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).md) | 设计、字典树、哈希表、字符串 | Medium |
 |	0295 | 数据流的中位数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0295.%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 设计、数组、双指针、优先级队列 | Hard |
 |	0642 | 设计搜索自动补全系统 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0642.%E8%AE%BE%E8%AE%A1%E6%90%9C%E7%B4%A2%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E7%B3%BB%E7%BB%9F.md) | 设计、字典树、字符串、数据流 | Hard |
+|	0745 | 前缀和后缀搜索 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0745.%E5%89%8D%E7%BC%80%E5%92%8C%E5%90%8E%E7%BC%80%E6%90%9C%E7%B4%A2.md) | 设计、字典树 | Hard |
+|	0895 | 最大频率栈 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0895.%E6%9C%80%E5%A4%A7%E9%A2%91%E7%8E%87%E6%A0%88.md) | 设计、栈、模拟 | Hard |
 |	0981 | 基于时间的键值存储 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0981.%E5%9F%BA%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E9%94%AE%E5%80%BC%E5%AD%98%E5%82%A8.md) | 设计、哈希表、二分查找 | Medium |
 
 
