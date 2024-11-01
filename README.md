@@ -16,6 +16,7 @@ Solutions by Python, JS
 |	0035 | 搜索插入位置 | [Java/JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0035.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md) | 数组、二分查找 | Easy |
 |	0041 | 缺失的第一个正数 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0041.%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.md) | 数组、哈希表 | Hard |
 |	0042 | 接雨水 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0042.%E6%8E%A5%E9%9B%A8%E6%B0%B4.md) | 数组、栈、单调栈、双指针 | Hard |
+|	0045 | 跳跃游戏 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0045.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.md) | 数组、贪心、动态规划 | Medium |
 |	0049 | 字母异位词分组 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0049.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md) | 数组、哈希表 | Medium |
 |	0053 | 最大子数组和 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md) | 数组、动态规划、分治 | Medium |
 |	0055 | 跳跃游戏 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0055.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md) | 数组、动态规划、贪心 | Medium |
@@ -175,6 +176,7 @@ Solutions by Python, JS
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0070 | 爬楼梯 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 动态规划 | Easy |
+|	0118 | 杨辉三角 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0118.%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md) | 动态规划 | Easy |
 |	0121 | 买卖股票的最佳时机 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 动态规划、递归 | Medium |
 |	0198 | 打家劫舍 | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md) | 动态规划 | Medium |
 |	0213 | 打家劫舍 II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.md) | 动态规划 | Medium |
